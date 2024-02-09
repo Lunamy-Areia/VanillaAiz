@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanillaAiz
+- 👋 Hi, I’m @Lunamy Areia
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning game dev
 - 💞️ I’m looking to collaborate on videogames projects
